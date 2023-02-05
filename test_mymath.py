@@ -1,5 +1,6 @@
 import mymath
 
+# TODO: add more tests
 
 #def test_zero():
 #    assert mymath.add(0, 0) == 0
